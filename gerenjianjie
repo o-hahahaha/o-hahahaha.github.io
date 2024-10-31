@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh-CN"></html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+   <title>个人简介</title>
+  <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="bacground-color: #f1f1f1; text-align: center; padding: 40px">
+      <img
+        src="https://s1.ax1x.com/2023/08/11/pPnEgVH.jpg"
+        alt="芜湖"
+        width="80px"
+        height="80px"
+      />
+    </div>
+    <div
+      style="
+        max-width: 700px;
+        margin: 30px auto;
+        padding: 15ox;
+        line-height: 1.7;
+        color: green;
+      "
+    >
+      <p>本人来自云南省昭通市，今年19岁，就读于四川信息职业技术学院，电气自动化专业。</p>
+      <p>本人拥有良好的专业知识基础，过硬的专业知识实操能力，参与过许多比赛。</p>
+      <p>本人的性格阳光、乐观、积极、大方、热爱生活。</p>
+    </div>
+    <div
+      style="
+        background-color: #f1f1f1;
+        text-align: center;
+        padding: 4px;
+        font-size: 12px;
+      "
+    >
+      <p>我的网站</p>
+      <a href="https://sunshiwei.com">友情链接</a>
+    </div>
+  </body>
+</html>
